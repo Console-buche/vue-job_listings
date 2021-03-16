@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+/starter_kit
+design/
 
 
 # local env files
