@@ -3,7 +3,9 @@
   <p align="center">
     Inspiré d'un challenge FrontEndMentor, page de filter sur un dataset filtrable par tags, en Vue.js pour l'occasion
 
-    <img src="https://github.com/Console-buche/vue-job_listings/blob/main/joblistings.gif?raw=true" alt="Demo du job listing"/>
+    <p align="center">
+  <img src="https://github.com/Console-buche/vue-job_listings/blob/main/joblistings.gif?raw=true" alt="Le gif daft punk" />
+</p>
 
   </p>
 </p>
